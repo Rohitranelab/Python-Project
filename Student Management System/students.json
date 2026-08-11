@@ -1,0 +1,12 @@
+{
+    "Rohit Rane": {
+        "mobile": "7894561230",
+        "dob": "25/05/2005",
+        "standard": "3rd Year",
+        "division": "A",
+        "subjects": {
+            "Python": 74,
+            "Machine Learning": 45
+        }
+    }
+}
