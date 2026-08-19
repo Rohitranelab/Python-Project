@@ -1,0 +1,23 @@
+{
+    "7777444411110000": {
+        "user_name": "Rohit Rane",
+        "age": 21,
+        "phone_number": "7894561230",
+        "account_type": "Saving",
+        "balance": 30000.0,
+        "transactions": [
+            {
+                "type": "Initial Deposit",
+                "amount": 10000.0,
+                "balance": 10000.0,
+                "date": "2026-08-19 19:15:35"
+            },
+            {
+                "type": "Deposit",
+                "amount": 20000.0,
+                "balance": 30000.0,
+                "date": "2026-08-19 19:16:32"
+            }
+        ]
+    }
+}
